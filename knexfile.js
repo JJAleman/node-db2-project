@@ -1,6 +1,3 @@
-// create this file with: knex init be sure you are in the root of your repo! or
-// use --knexfile ... don't do what i've done before lol (create knexfile.js in
-// the ./data folder... made all sortsa prolems.).
 
 module.exports = {
 
